@@ -1,0 +1,14 @@
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.10.9
+seaborn==0.13.2
+confluent-kafka==2.16.1
+psycopg2-binary==2.9.13
+SQLAlchemy==2.1.5
+python-dotenv==1.2.4
+pytest==9.2.0
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0

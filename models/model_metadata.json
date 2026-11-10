@@ -1,0 +1,19 @@
+{
+  "model": "LinearRegression",
+  "features": [
+    "gdp",
+    "family",
+    "health",
+    "freedom",
+    "generosity",
+    "corruption"
+  ],
+  "target": "happiness_score",
+  "sklearn_version": "1.9.1",
+  "split": "GroupShuffleSplit por country, 70/30, random_state=42",
+  "metrics_test": {
+    "MAE": 0.432,
+    "RMSE": 0.562,
+    "R2": 0.7837
+  }
+}

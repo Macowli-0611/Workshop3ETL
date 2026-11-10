@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+# material original del curso (no se versiona)
+data (2)/
+data (2).zip
+ETL-G01_*.pdf
+.pytest_cache/
+
+# guía personal de estudio (no es entregable)
+DESARROLLO_DEL_PROYECTO.md
